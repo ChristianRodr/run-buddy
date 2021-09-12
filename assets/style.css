@@ -88,8 +88,16 @@ section {
     color: #024e76;
     border: solid 3px #024e76;
     position: absolute;
-    bottom: 0px;
-    right: 0px;
+    bottom: 120px;
+    right: 140px;
 }
 
+h3 {
+    margin: 0;
+    font-size: 22px;
+}
+
+.hero-form p{
+    margin: 5px 0 15px 0;
+}
 
