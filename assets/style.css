@@ -88,8 +88,8 @@ section {
     color: #024e76;
     border: solid 3px #024e76;
     position: absolute;
-    bottom: 0px;
-    right: 0px;
+    bottom: 120px;
+    right: 140px;
 }
 
 .hero-form p {
@@ -104,7 +104,7 @@ section {
 .form-input {
     border: 1px solid #024e76;
     display: block;
-    padding: 7px 15px 0;
+    padding: 7px 15px;
     font-size: 16px;
     color: #024e76;
     width: 100%;
